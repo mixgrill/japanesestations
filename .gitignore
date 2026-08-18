@@ -7,7 +7,6 @@ node_modules/
 *.env
 
 # ビルド成果物（静的化やビルド時に生成されるフォルダ）
-dist/
 build/
 out/
 
