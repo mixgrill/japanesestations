@@ -38,7 +38,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './public' # index.html と dist/ があるルートフォルダを指定
+          path: './docs' # index.html と dist/ があるルートフォルダを指定
 
       - name: Deploy to GitHub Pages
         id: deployment
