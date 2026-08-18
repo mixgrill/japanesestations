@@ -1,5 +1,5 @@
 import { setLanguage, updateUI } from './i18n.js';
-import data from './assets/stations.json' with { type: 'json' };
+import data from '../assets/stations.json' with { type: 'json' };
 // 初期化時にUIテキストをセット
 updateUI();
 // 言語切替セレクトボックスのハンドリング
