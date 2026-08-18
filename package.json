@@ -10,7 +10,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
-    "serve": "http-server ./public/"
+    "serve": "http-server ./docs/"
   },
   "dependencies": {
     "chokidar": "^5.0.0",
