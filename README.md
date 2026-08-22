@@ -1,6 +1,6 @@
 ## 概要
 日本の駅をR*Treeでインデックス作成したときどのように線引されるかを可視化するページです。
-[こちら](https://mixgrill.github.io/neareststation/)
+[こちら](https://mixgrill.github.io/japanesestations/)
 から利用できます。
 ## See also
 https://qiita.com/nurarihyong/items/2ae59d09675ceffada55
